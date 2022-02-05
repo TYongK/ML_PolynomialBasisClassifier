@@ -1,0 +1,8 @@
+conda create --name lcperceptron
+activate lcperceptron
+conda install -c conda-forge notebook
+conda install pip
+conda install -c anaconda ipykernel
+python -m ipykernel install --user --name=lcperceptron
+conda install numpy
+python -m pip install matplotlib
