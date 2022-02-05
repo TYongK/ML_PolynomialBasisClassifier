@@ -4,7 +4,7 @@ Anaconda platform, Jupyter Notebook
 
 ![anigif](https://user-images.githubusercontent.com/93954052/152619491-2227e8c7-abdb-424f-a0a0-a3bf8cd7b693.gif)
 
-![PcResult234](https://user-images.githubusercontent.com/93954052/152619510-2770c445-5cbf-4dbb-92f0-207c12746b65.png)
+![다운로드](https://user-images.githubusercontent.com/93954052/152619918-f807656a-2418-457f-918d-fa5980a0b5e1.png)
 
 ![image](https://user-images.githubusercontent.com/93954052/152619601-396baac9-b85f-4ab1-b4ae-909eb84cc31a.png)
 
